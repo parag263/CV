@@ -1,0 +1,27 @@
+/* external CSS */
+
+body {
+  /* font-family: "Courier New", Courier, monospace; */
+  font-family: "Inconsolata";
+  background-color: black;
+}
+
+hr {
+  /* border-width: 3px 0 0; */
+  /* border: dotted gray; */
+  /* background-color: pink; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 3px;
+  width: 5%;
+}
+
+h1, p, table, ul, ol, form {
+  /* font-style: oblique; */
+  /* background-color: peachpuff; */
+  color: white;
+}
+h3 {
+  color: #8166bf;
+}
